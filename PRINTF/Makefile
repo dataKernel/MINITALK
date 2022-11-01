@@ -30,8 +30,7 @@ clean:
 	${RM} ${OBJS}
 	
 fclean: clean
-	${RM} ${NAME}
-	make -C libft fclean
+	${RM} ${NAME} 
 
 re:	fclean all
 

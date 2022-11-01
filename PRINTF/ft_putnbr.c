@@ -6,13 +6,14 @@
 /*   By: lancelot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/15 10:45:57 by lancelot          #+#    #+#             */
-/*   Updated: 2022/05/03 11:57:08 by lancelot         ###   ########.fr       */
+/*   Updated: 2022/05/04 12:55:32 by lsaint-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdbool.h>
 #include <stdio.h>
 #include "libft/libft.h"
+#include "ft_printf.h"
 
 static int	size_int(int n)
 {
