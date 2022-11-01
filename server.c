@@ -6,7 +6,7 @@
 /*   By: lancelot <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/26 17:31:52 by lancelot          #+#    #+#             */
-/*   Updated: 2022/11/01 11:10:20 by lancelot         ###   ########.fr       */
+/*   Updated: 2022/11/01 14:10:39 by lancelot         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include <signal.h>
 
 struct	s_array
 {
